@@ -1,2 +1,6 @@
 /pgadmin
 /postgres
+
+/flaskr/venv
+/.venv
+/flaskr/credentials.json
